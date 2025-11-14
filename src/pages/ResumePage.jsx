@@ -135,7 +135,7 @@ export default function ResumePage() {
             Education
           </h1>
           <ul className="timeline timeline-snap-icon max-md:timeline-compact timeline-vertical">
-            <li id="ausbildung">
+            <li id="High School">
               <div className="timeline-middle">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -163,7 +163,7 @@ export default function ResumePage() {
               </div>
               <hr className="bg-primary" />
             </li>
-            <li id="nurse-work">
+            <li id="RVCC">
               <hr className="bg-primary" />
               <div className="timeline-middle">
                 <svg
@@ -191,6 +191,32 @@ export default function ResumePage() {
                 on Sciences (Organic Chem, Physic, Chem, Biology) and Maths
                 (Calculus I and II)
               </div>
+            </li>
+            <li id="HWR">
+              <div className="timeline-middle">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 20 20"
+                  fill="currentColor"
+                  className="h-5 w-5 text-primary"
+                >
+                  <path
+                    fillRule="evenodd"
+                    d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.857-9.809a.75.75 0 00-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 10-1.06 1.061l2.5 2.5a.75.75 0 001.137-.089l4-5.5z"
+                    clipRule="evenodd"
+                  />
+                </svg>
+              </div>
+              <div className="timeline-end mb-10 md:text-end">
+                <time className="font-mono italic">Oct 2025 - Sep 2028</time>
+                <div className="text-lg font-black text-primary">
+                  Bachelor of Science, Computer Science
+                </div>
+                <div className="italic text-secondary">
+                  Hochschule für Wirtschaft und Recht
+                </div>
+              </div>
+              <hr className="bg-primary" />
             </li>
           </ul>
         </div>
