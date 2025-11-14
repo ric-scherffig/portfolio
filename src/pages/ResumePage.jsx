@@ -95,10 +95,10 @@ export default function ResumePage() {
               Bootstrap and Tailwind, Current Development Stack: MERN (MongoDB,
               Express, React, NodeJS)
             </div>
-            <hr className="bg-primary animate-fade-down animate-infinite animate-duration-[2000ms] animate-ease-in" />
+            <hr className="bg-primary" />
           </li>
           <li>
-            <hr className="bg-primary animate-fade-down animate-infinite animate-duration-[2000ms] animate-ease-in" />
+            <hr className="bg-primary" />
             <div className="timeline-middle">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
