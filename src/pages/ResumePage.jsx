@@ -191,6 +191,7 @@ export default function ResumePage() {
                 on Sciences (Organic Chem, Physic, Chem, Biology) and Maths
                 (Calculus I and II)
               </div>
+              <hr className="bg-primary" />
             </li>
             <li id="HWR">
               <div className="timeline-middle">
@@ -216,7 +217,7 @@ export default function ResumePage() {
                   Hochschule für Wirtschaft und Recht
                 </div>
               </div>
-              <hr className="bg-primary" />
+              <hr className="bg-primary animate-fade-down animate-infinite animate-duration-[2000ms] animate-ease-in" />
             </li>
           </ul>
         </div>
