@@ -12,7 +12,7 @@ export default function Header() {
         <div className="hero-content flex-col lg:flex-row-reverse gap-10">
           <div className="flex flex-col items-center gap-10 lg:gap-4 lg:flex-col-reverse p-0">
             <h1 className="text-5xl lg:text-3xl font-bold text-center">
-              Ricardo Vazquez
+              Ricardo Scherffig
             </h1>
             <img
               src={photo}
